@@ -1,0 +1,12 @@
+﻿
+#form1{
+    background-color: rgba(0, 0, 255, 0.3);
+    white-space: nowrap;
+    width: 200px;
+    border: 1px solid #000000;
+    text-align:center;
+    
+   }
+#form2 {
+    text-align:justify;
+    }
